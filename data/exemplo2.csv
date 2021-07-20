@@ -1,6 +1,6 @@
 cpf,nome,impostos pagos,malha fina?
-888111000-39,maria João,,n
-111.888.000-93,José maria,1000,n
-18181800093,jose manoel,1000.92,n
-,paula,100000,y
-,paula da silva,120,y
+888111000-39,maria João,"R$ 5,43",n
+111.888.000-93,José maria,"R$ 105.430,70",y
+18181800093,jose manoel,"R$ 100,00",n
+18181800194,paula,1285,y
+18181800194,paula da silva,"R$ 100.000,27",y
