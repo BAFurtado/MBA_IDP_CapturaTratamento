@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <user>
+    <name>Mr. John</name>
+    <password>26sXFSAFQqlj.*24</password>
+    <details>
+      <profession employer="IDP">
+      Professor</profession>
+      <telephone>+55 61 2021 4000</telephone>
+    </details>
+  </user>
+  <user>
+    <name>Ms. Bevilacqua</name>
+    <password>26sXF584Qqlj.*24</password>
+    <details>
+      <profession employer="Casa Civil">
+      Lobista</profession>
+      <telephone>+55 61 1021 4000</telephone>
+    </details>
+  </user>
+</users>
