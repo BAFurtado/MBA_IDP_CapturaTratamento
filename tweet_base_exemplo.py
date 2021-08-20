@@ -36,6 +36,7 @@ def main(database, path, query_params):
 
 
 if __name__ == '__main__':
+    print(sys.argv)
     if len(sys.argv) == 2:
         twitter_handle = sys.argv[1]
     else:

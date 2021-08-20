@@ -1,9 +1,13 @@
 import requests
 import twitter_secrets
+import exemplo_importa
+
+print(exemplo_importa.exemplo_variavel1)
 
 bearer_token = twitter_secrets.secrets.get('Bearer Token')
 search_url = "https://api.twitter.com/2/tweets/search/recent"
 cols_names = ['author_id', 'id', 'text']
+
 
 def bearer_oauth(bear):
     """
