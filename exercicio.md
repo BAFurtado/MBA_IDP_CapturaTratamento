@@ -22,6 +22,10 @@ de dados para aquele ano.
        with urllib.request.urlopen(link) as handler:
            output_size[key] += int(handler.getheader('Content-Length'))
 
+9. Exercício do Lucas (Opcional): https://colab.research.google.com/drive/1iaBWUmibRLONO6angRjfkGUCR0ggpesg?usp=sharing
+10. Exercício do Lucas REGEX (Opcional): https://colab.research.google.com/drive/1BNB2ovHrqHuOx20_GdmLSsvKGmUqnxwR?usp=sharing
+
+
 ## Sugestão de procedimentos
 
 1. Importe as bibliotecas necessárias `requests` e `BeautifulSoup` from `bs4`
